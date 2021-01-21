@@ -1,7 +1,7 @@
 # Descrição do Projeto:
 Aplicação web em React, consumindo a Api do gitHub :)
 
-## Demonstrando aplicação:
+## Demonstrando a aplicação:
 <li>
     Na primeira tela você insere o nome do dono do repositório / nome do repositório, como demonstrado na imagem abaixo. A aplicação lista todos os repositórios adicionados e grava os mesmos no localStorage, caso a aplicação seja recarregada os dados não serão perdidos.
 </li>

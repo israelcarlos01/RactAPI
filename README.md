@@ -1,3 +1,24 @@
+# Descrição do Projeto:
+Aplicação web em React, consumindo a Api do gitHub :)
+
+## Demonstrando aplicação:
+<li>
+    Na primeira tela você insere o nome do dono do repositório / nome do repositório, como demonstrado na imagem abaixo. A aplicação lista todos os repositórios adicionados e grava os mesmos no localStorage, caso a aplicação seja recarregada os dados não serão perdidos.
+</li>
+<br/>
+<div align="center">
+    <img width= 600 height= 300 src="imagensREADME/TelaPrincipal.PNG" alt="nome"/>
+</div>
+<br/>
+<br/>
+<li>
+    O usuário consegue visualizar os detalhes de cada repositório adicionado, visualiza informações como: Avatar do repositório, nome, descrição, lista todas as issues e seus labels.
+</li>
+<br/>
+<div align="center">
+    <img width= 600 height= 400 src="imagensREADME/RepoDetail.PNG" alt="nome"/>
+</div>
+<br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
